@@ -3,10 +3,21 @@
 }
 
 body{
-	font-size: 20px;
-	font-style: all;
+	font-family: candara;
+	background: #c8d9bf
 }
 
-.titulo2 {
-	font-size: 25px
+.B{
+	width: 300px;
+	height: 200px;
+	margin-left:200px  
 }
+
+.complexob{
+	width: 250px;
+	height: 200px;
+	margin-left: 200px
+}
+
+
+
