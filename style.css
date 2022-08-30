@@ -1,16 +1,30 @@
-.titulo{
-	text-align: center;
-}
+header{
+	background:#FFFFFF;
+	margin: -10px;
+}	
 
-body{
-	font-family: candara;
-	background: #c8d9bf
+h1{
+	display: inline-block;
+	margin-left: 200px;
+	position: absolute;
+	top: 85px;
+	font-size: 40px
 }
 
 .B{
 	width: 300px;
-	height: 200px;
-	margin-left:200px  
+	height: 200px
+
+}
+
+body{
+	font-family: candara;
+	background:#edeccf
+}
+
+.alimentos{
+	margin-left: 200px;
+	height: 200px	
 }
 
 .complexob{
