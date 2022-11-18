@@ -1,9 +1,36 @@
-.Vitaminas{
-  width:-150%
+header{
+	background: #ffffff;
+	margin:-10px;
 }
 
+body{
+	font-family: candara;
+	background:#edeccf
+}
 
+.Vitaminas{
+	width: 300px;
+	margin: -10px
+}
+	
 h1{
   display: inline-block;
-  margin-left: 100px
+  margin-left: 400px;
+  position: absolute;
+  font-size:45px;
+  margin-top: 40px
+}
+
+.tituloa{
+ 	display: inline-block;
+ 	margin-left: 125px;
+ 	margin-top: 10px;
+ 	font-size:30px;
+}
+ 
+.titulob{
+	display: inline-block;
+	margin-left: 400px;
+	font-size:30px;
+	margin-top: -10px
 }
