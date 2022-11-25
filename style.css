@@ -1,7 +1,12 @@
 header{
 	background:#FFFFFF;
 	margin: -10px;
-}	
+}
+
+body{
+	font-family: candara;
+	background:#edeccf
+}
 
 h1{
 	display: inline-block;
@@ -14,17 +19,19 @@ h1{
 .B{
 	width: 300px;
 	height: 200px
-
 }
 
-body{
-	font-family: candara;
-	background:#edeccf
+.tituloa{
+	display: inline-block;
+}
+
+.home{
+	display: inline-block;
 }
 
 .alimentos{
 	margin-left: 200px;
-	height: 200px	
+	height: 200px
 }
 
 .complexob{
@@ -32,6 +39,3 @@ body{
 	height: 200px;
 	margin-left: 200px
 }
-
-
-
