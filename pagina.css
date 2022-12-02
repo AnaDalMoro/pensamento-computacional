@@ -1,0 +1,45 @@
+body{
+	font-family: candara;
+	background:#edeccf
+	font-size:25px;
+}
+
+header{
+	background: #ffffff;
+	margin: -10px;
+
+}
+
+.img{
+	height: 200px;
+}
+
+h1{
+	display: inline-block; 
+	position: absolute;
+	margin-top:10px;
+	margin-left: 375px;
+	font-size:45px;
+}
+
+
+.titulob{
+	display: inline-block;
+	position: absolute;
+	font-size: 30px;
+	margin-top: 150px;
+	margin-left: 50px
+}
+
+.tituloh{
+	display: inline-block;
+	position: absolute;
+	font-size: 30px;
+	margin-top: 150px;
+	margin-left: 600px;
+}
+
+.A{
+	width: 25%;
+	margin-left: 100px;
+}

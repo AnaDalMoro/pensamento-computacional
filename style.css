@@ -1,32 +1,41 @@
-header{
-	background:#FFFFFF;
-	margin: -10px;
-}
-
 body{
 	font-family: candara;
 	background:#edeccf
 }
 
-h1{
-	display: inline-block;
-	margin-left: 200px;
-	position: absolute;
-	top: 85px;
-	font-size: 40px
+header{
+	background:#FFFFFF;
+	margin: -10px;
 }
 
 .B{
 	width: 300px;
-	height: 200px
+	height: 200px;
 }
 
+h1{
+	display: inline-block;
+	margin-left: 200px;
+	margin-top:-75px;
+	position: absolute;
+	top: 85px;
+	font-size: 45px;
+}
 .tituloa{
 	display: inline-block;
+	position: absolute;
+	margin-top: 150px;
+	font-size: 30px;
+	margin-left: 100px;
 }
 
-.home{
-	display: inline-block;
+.tituloh{
+	display: inline;
+	position: absolute;
+	font-size: 30px;
+	margin-top: -75px;
+	margin-left:950px ;
+
 }
 
 .alimentos{
