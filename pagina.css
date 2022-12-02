@@ -1,13 +1,13 @@
 body{
+	background:#edeccf;
 	font-family: candara;
-	background:#edeccf
 	font-size:25px;
 }
 
 header{
 	background: #ffffff;
 	margin: -10px;
-
+	border: 5px solid; black
 }
 
 .img{
@@ -15,7 +15,7 @@ header{
 }
 
 h1{
-	display: inline-block; 
+	display: inline-block;
 	position: absolute;
 	margin-top:10px;
 	margin-left: 375px;
@@ -28,7 +28,11 @@ h1{
 	position: absolute;
 	font-size: 30px;
 	margin-top: 150px;
-	margin-left: 50px
+	margin-left: 50px;
+}
+
+.titulob:hover{
+ 	background:gold ;
 }
 
 .tituloh{
@@ -38,8 +42,12 @@ h1{
 	margin-top: 150px;
 	margin-left: 600px;
 }
+.tituloh:hover{
+	background:gold;
+}
 
 .A{
 	width: 25%;
 	margin-left: 100px;
+	border: 5px solid; black;
 }

@@ -1,19 +1,22 @@
+body{
+	font-size: 25px;
+	font-family: candara;
+	background:#edeccf;
+
+}
+
 header{
 	background: #ffffff;
 	margin: -10px;
-	height: 200px
-}
-
-body{
-	font-family: candara;
-	background:#edeccf
+	height: 200px;
+	border: 5px solid; black;
 }
 
 .Vitaminas{
 	width: 300px;
 	margin-left: -10px;
 }
-	
+
 h1{
   display: inline-block;
   margin-left: 400px;
@@ -29,11 +32,18 @@ h1{
  	font-size:30px;
  	position: absolute;
 }
- 
+
+.tituloa:hover{
+ 	background:gold ;
+}
+
 .titulob{
 	display: inline-block;
 	margin-left: 600px;
 	font-size:30px;
-	margin-top:150px; 
+	margin-top:150px;
 	position: absolute;
+}
+.titulob:hover{
+ 	background:gold ;
 }

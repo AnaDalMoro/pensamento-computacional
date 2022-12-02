@@ -1,11 +1,13 @@
 body{
 	font-family: candara;
-	background:#edeccf
+	background:#edeccf;
+	font-size: 25px;
 }
 
 header{
 	background:#FFFFFF;
 	margin: -10px;
+	border: 5px solid; black
 }
 
 .B{
@@ -28,6 +30,9 @@ h1{
 	font-size: 30px;
 	margin-left: 100px;
 }
+.tituloa:hover{
+ 	background:gold ;
+}
 
 .tituloh{
 	display: inline;
@@ -35,16 +40,20 @@ h1{
 	font-size: 30px;
 	margin-top: -75px;
 	margin-left:950px ;
-
+}
+.tituloh:hover{
+ 	background:gold ;
 }
 
 .alimentos{
 	margin-left: 200px;
-	height: 200px
+	height: 200px;
+	border: 5px solid; black;
 }
 
 .complexob{
 	width: 250px;
 	height: 200px;
-	margin-left: 200px
+	margin-left: 200px;
+	border: 5px solid; black;
 }
